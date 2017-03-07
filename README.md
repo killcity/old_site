@@ -1,4 +1,4 @@
-# *killcity.github.io*
+# killcity.github.io
 
 h1. 
 firstblush.io
